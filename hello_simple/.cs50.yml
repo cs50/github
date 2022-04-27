@@ -6,3 +6,4 @@ check50:
         - run: ./hello
           stdout: hello world
           exit: 0
+submit50: true
